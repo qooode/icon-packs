@@ -1,0 +1,22 @@
+[
+  {
+    "name": "IMDb",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/960px-IMDB_Logo_2016.svg.png"
+  },
+  {
+    "name": "Rotten Tomatoes",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rotten_Tomatoes.svg/250px-Rotten_Tomatoes.svg.png"
+  },
+  {
+    "name": "Metacritic",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Metacritic_M.png"
+  },
+  {
+    "name": "TMDb",
+    "url": "https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_1-5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4.svg"
+  },
+  {
+    "name": "Letterboxd",
+    "url": "https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png"
+  }
+]
